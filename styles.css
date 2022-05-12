@@ -377,12 +377,12 @@
 
 #title
 {
-	font-size: 72px;
-	font-style: italic;
-
+	 font-size: 72px;
+	 font-style: italic;
+	 position: absolute; 
 }
 #content
 {
-	font-size: 32px;
-
+	 font-size: 32px;
+	 position: absolute; 
 }
