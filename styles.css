@@ -368,5 +368,21 @@
 
  #texto 
 { 
-
+	 left: 150px; 
+	 right: 150px;
+	 top: 1400px; 
+	 position: absolute; 
+	 z-index:36;
 } 
+
+#title
+{
+	font-size: 72px;
+	font-style: italic;
+
+}
+#content
+{
+	font-size: 32px;
+
+}
