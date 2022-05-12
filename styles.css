@@ -106,16 +106,6 @@
 	 z-index:9;
 } 
 
- #2022MJNESPORTSAllRig 
-{ 
-	 left: 729px; 
-	 top: 5312px; 
-	 position: absolute; 
-	 width: 519px;
-	 height: 23px;
-	 z-index:10;
-} 
-
  #mdiakit 
 { 
 	 left: 769px; 
@@ -380,6 +370,7 @@
 	 font-size: 72px;
 	 font-style: italic;
 }
+
 #content
 {
 	 font-size: 32px;
